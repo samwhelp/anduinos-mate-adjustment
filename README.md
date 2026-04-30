@@ -28,6 +28,12 @@
 | [Quick Adjustment](https://github.com/samwhelp/note-about-anduinos-mate/tree/gh-pages/_demo/scripts/mate-adjustment) |
 
 
+| Style Management |
+| ---------------- |
+| [make-mate-style](https://github.com/samwhelp/make-mate-style) |
+| [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
+
+
 
 
 ## Link
@@ -39,3 +45,10 @@
 | [LinuxMint Mate Adjustment](https://samwhelp.github.io/linuxmint-mate-adjustment/) | [GitHub](https://github.com/samwhelp/linuxmint-mate-adjustment) |
 | [Debian Mate Adjustment](https://samwhelp.github.io/debian-mate-adjustment/) | [GitHub](https://github.com/samwhelp/debian-mate-adjustment) |
 | [Fedora Mate Adjustment](https://samwhelp.github.io/fedora-mate-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-mate-adjustment) |
+
+
+
+
+## Samwhelp
+
+* [GitHub](https://github.com/samwhelp)
